@@ -1,0 +1,25 @@
+{
+  "name": "myproject",
+  "description": "Gulp Project",
+  "main": "index.js",
+  "authors": [
+    "Alex"
+  ],
+  "license": "ISC",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "src/libs/",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "^2.2.3",
+    "normalize-css": "^4.1.1"
+  },
+  "devDependencies": {
+    "bootstrap": "^3.3.7"
+  }
+}
